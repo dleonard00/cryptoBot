@@ -1,0 +1,12 @@
+{
+  "name": "cryptoBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "bignumber.js": "^4.1.0",
+    "gdax-trading-toolkit": "^0.2.1",
+    "trendyways": "^0.4.1",
+    "ts-promise": "^1.0.0"
+  }
+}

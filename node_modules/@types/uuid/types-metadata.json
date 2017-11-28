@@ -1,0 +1,27 @@
+{
+    "authors": "Oliver Hoffmann <https://github.com/iamolivinius/>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [
+        "node"
+    ],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "2",
+    "libraryMinorVersion": "0",
+    "libraryName": "uuid v2.0.3",
+    "typingsPackageName": "uuid",
+    "projectName": "https://github.com/defunctzombie/node-uuid",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [
+        "uuid"
+    ],
+    "declaredModules": [
+        "uuid"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "cf0029ab9b8fa688f8685324ccd9e6507a1c8abbd0216e5ef2952bdc93d24047"
+}
